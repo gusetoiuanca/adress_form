@@ -47,4 +47,4 @@ In terms of tasks and time I've splited this task into:
 * creating the backend. Took me 2h
 * creating the fronted. Took me like 4h
 * adding webpack. Took me around 2h
-* adding a few tests with jest, only to show how I would test the app. Took me around 2h, I suppose that I would need a full day to finish unit testing
+* adding a few tests with jest, only to show how I would test the app. Took me around 1h, I suppose that I would need a full day to finish unit testing
