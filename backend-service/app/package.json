@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend for adress form",
+  "main": "server.js",
+  "scripts": {
+    "test": "export MONGO_HOST=mongo MONGO_PORT=27017 DEBUG=true && node_modules/.bin/jest test/app.test.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "google-libphonenumber": "^3.2.1",
+    "mongodb": "^3.1.10",
+    "validator": "^10.9.0"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
