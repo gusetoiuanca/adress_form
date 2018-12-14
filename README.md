@@ -1,10 +1,10 @@
-**Start the services**
+## Start the services
 
 Start backend:
-    1. `cd backend-service && docker-compose build && docker-compose up`
-    2. `npm test for testing`
+* `cd backend-service && docker-compose build && docker-compose up`
+* `npm test` for testing
 Start front-end:
-    2. `cd frontend && yarn install && yarn start`
+* `cd frontend && yarn install && yarn start`
 
 ## Environment
 
